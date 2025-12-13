@@ -79,8 +79,6 @@ public class RockPaperScissors {
 			System.out.print("An error occurred.");
 		}
 		
-		
-
 	}
 
 }
